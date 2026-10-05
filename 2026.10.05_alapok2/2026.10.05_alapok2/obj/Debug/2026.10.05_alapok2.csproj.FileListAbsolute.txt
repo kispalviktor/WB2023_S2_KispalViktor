@@ -1,0 +1,10 @@
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_alapok2\2026.10.05_alapok2\bin\Debug\2026.10.05_alapok2.exe.config
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_alapok2\2026.10.05_alapok2\bin\Debug\2026.10.05_alapok2.exe
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_alapok2\2026.10.05_alapok2\bin\Debug\2026.10.05_alapok2.pdb
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_alapok2\2026.10.05_alapok2\obj\Debug\2026.10.05_alapok2.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_alapok2\2026.10.05_alapok2\obj\Debug\_2026._10._05_alapok2.Properties.Resources.resources
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_alapok2\2026.10.05_alapok2\obj\Debug\2026.10.05_alapok2.csproj.GenerateResource.cache
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_alapok2\2026.10.05_alapok2\obj\Debug\2026.10.05_alapok2.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_alapok2\2026.10.05_alapok2\obj\Debug\2026.10.05_alapok2.exe
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_alapok2\2026.10.05_alapok2\obj\Debug\2026.10.05_alapok2.pdb
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_alapok2\2026.10.05_alapok2\obj\Debug\_2026._10._05_alapok2.data.resources
