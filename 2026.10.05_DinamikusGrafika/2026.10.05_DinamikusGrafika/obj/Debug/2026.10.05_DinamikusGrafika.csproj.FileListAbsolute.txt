@@ -1,0 +1,10 @@
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_DinamikusGrafika\2026.10.05_DinamikusGrafika\bin\Debug\2026.10.05_DinamikusGrafika.exe.config
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_DinamikusGrafika\2026.10.05_DinamikusGrafika\bin\Debug\2026.10.05_DinamikusGrafika.exe
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_DinamikusGrafika\2026.10.05_DinamikusGrafika\bin\Debug\2026.10.05_DinamikusGrafika.pdb
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_DinamikusGrafika\2026.10.05_DinamikusGrafika\obj\Debug\2026.10.05_DinamikusGrafika.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_DinamikusGrafika\2026.10.05_DinamikusGrafika\obj\Debug\_2026._10._05_DinamikusGrafika.Form1.resources
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_DinamikusGrafika\2026.10.05_DinamikusGrafika\obj\Debug\_2026._10._05_DinamikusGrafika.Properties.Resources.resources
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_DinamikusGrafika\2026.10.05_DinamikusGrafika\obj\Debug\2026.10.05_DinamikusGrafika.csproj.GenerateResource.cache
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_DinamikusGrafika\2026.10.05_DinamikusGrafika\obj\Debug\2026.10.05_DinamikusGrafika.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_DinamikusGrafika\2026.10.05_DinamikusGrafika\obj\Debug\2026.10.05_DinamikusGrafika.exe
+C:\Users\KispalViktor\Documents\iktpm\2026.10.05_DinamikusGrafika\2026.10.05_DinamikusGrafika\obj\Debug\2026.10.05_DinamikusGrafika.pdb
