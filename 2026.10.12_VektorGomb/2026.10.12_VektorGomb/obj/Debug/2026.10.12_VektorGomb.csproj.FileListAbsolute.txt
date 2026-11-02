@@ -18,3 +18,13 @@ H:\12\iktpm\2026.10.12_VektorGomb\2026.10.12_VektorGomb\obj\Debug\2026.10.12_Vek
 H:\12\iktpm\2026.10.12_VektorGomb\2026.10.12_VektorGomb\obj\Debug\2026.10.12_VektorGomb.csproj.CoreCompileInputs.cache
 H:\12\iktpm\2026.10.12_VektorGomb\2026.10.12_VektorGomb\obj\Debug\2026.10.12_VektorGomb.exe
 H:\12\iktpm\2026.10.12_VektorGomb\2026.10.12_VektorGomb\obj\Debug\2026.10.12_VektorGomb.pdb
+C:\Users\KispalViktor\Documents\GitHub\WB2023_S2_KispalViktor\2026.10.12_VektorGomb\2026.10.12_VektorGomb\bin\Debug\2026.10.12_VektorGomb.exe.config
+C:\Users\KispalViktor\Documents\GitHub\WB2023_S2_KispalViktor\2026.10.12_VektorGomb\2026.10.12_VektorGomb\bin\Debug\2026.10.12_VektorGomb.exe
+C:\Users\KispalViktor\Documents\GitHub\WB2023_S2_KispalViktor\2026.10.12_VektorGomb\2026.10.12_VektorGomb\bin\Debug\2026.10.12_VektorGomb.pdb
+C:\Users\KispalViktor\Documents\GitHub\WB2023_S2_KispalViktor\2026.10.12_VektorGomb\2026.10.12_VektorGomb\obj\Debug\2026.10.12_VektorGomb.csproj.AssemblyReference.cache
+C:\Users\KispalViktor\Documents\GitHub\WB2023_S2_KispalViktor\2026.10.12_VektorGomb\2026.10.12_VektorGomb\obj\Debug\_2026._10._12_VektorGomb.Form1.resources
+C:\Users\KispalViktor\Documents\GitHub\WB2023_S2_KispalViktor\2026.10.12_VektorGomb\2026.10.12_VektorGomb\obj\Debug\_2026._10._12_VektorGomb.Properties.Resources.resources
+C:\Users\KispalViktor\Documents\GitHub\WB2023_S2_KispalViktor\2026.10.12_VektorGomb\2026.10.12_VektorGomb\obj\Debug\2026.10.12_VektorGomb.csproj.GenerateResource.cache
+C:\Users\KispalViktor\Documents\GitHub\WB2023_S2_KispalViktor\2026.10.12_VektorGomb\2026.10.12_VektorGomb\obj\Debug\2026.10.12_VektorGomb.csproj.CoreCompileInputs.cache
+C:\Users\KispalViktor\Documents\GitHub\WB2023_S2_KispalViktor\2026.10.12_VektorGomb\2026.10.12_VektorGomb\obj\Debug\2026.10.12_VektorGomb.exe
+C:\Users\KispalViktor\Documents\GitHub\WB2023_S2_KispalViktor\2026.10.12_VektorGomb\2026.10.12_VektorGomb\obj\Debug\2026.10.12_VektorGomb.pdb
